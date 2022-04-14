@@ -6,3 +6,6 @@ console.log("1");
 
 
 
+console.log("我是本地的代码");
+
+console.log("我是远程的代码");
