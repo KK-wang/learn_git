@@ -11,3 +11,10 @@ console.log("我是本地的代码");
 console.log("我是远程的代码");
 
 console.log("我叫王兴浩");
+
+
+for (let i = 0; i < 2; i++) {
+  console.log(i);
+}
+
+console.log("wxh")
