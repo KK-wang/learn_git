@@ -8,3 +8,7 @@ console.log("wxh");
 
 
 console.log(":cmh");
+
+for (let i of Object) {
+  console.log(i);
+}
